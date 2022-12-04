@@ -1,0 +1,11 @@
+{
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar"
+    ],
+    "java.project.sourcePaths": [
+        "offline-1/problem-2/",
+        "offline-1/problem-1/",
+    ],
+    "files.autoSave": "onFocusChange"
+}
