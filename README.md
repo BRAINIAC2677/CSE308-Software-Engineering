@@ -1,18 +1,13 @@
-## Getting Started
+# CSE 308 Software Engineering
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
-
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+- ## Offline-1
+  **Creational Design Patterns**
+  - [Problem Specification](/offline-1/problem-spec.pdf)
+  - [Problem Solution-1](/offline-1/solution-1/) | `Builder Pattern`
+  - [Problem Solution-2](/offline-1/solution-2/) | `Abstract Factory Pattern`
+- ## Offline-2
+    **Behavioral Design Patterns**
+  - [Problem Specification](/offline-2/problem-spec.pdf)
+  - [Problem Solution-1](/offline-2/solution-1/) | `Observer Pattern + State Pattern`
+  - [Problem Solution-2](/offline-2/solution-2/) | `Mediator Pattern`
+  - [Problem Solution-3](/offline-2/solution-3/) | `State Pattern`
