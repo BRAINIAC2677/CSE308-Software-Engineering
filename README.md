@@ -1,4 +1,4 @@
-# CSE 308 Software Engineering
+# CSE 308 `Software Engineering`
 
 - ## Offline-1
   **Creational Design Patterns**
@@ -11,3 +11,9 @@
   - [Problem Solution-1](/offline-2/solution-1/) | `Observer Pattern + State Pattern`
   - [Problem Solution-2](/offline-2/solution-2/) | `Mediator Pattern`
   - [Problem Solution-3](/offline-2/solution-3/) | `State Pattern`
+- ## Offline-3
+    **Structural Design Patterns**
+  - [Problem Specification](/offline-3/problem-spec.pdf)
+  - [Problem Solution-1](/offline-3/solution-1/) | `Adapter Pattern`
+  - [Problem Solution-2](/offline-3/solution-2/) | `Decorator Pattern + Simple Factory Pattern`
+  - [Problem Solution-3](/offline-3/solution-3/) | `Composite Pattern`
