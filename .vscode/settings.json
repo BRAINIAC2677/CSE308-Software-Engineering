@@ -4,7 +4,7 @@
         "lib/**/*.jar"
     ],
     "java.project.sourcePaths": [
-        "online-1/solution/",
+        "offline-1/solution-1"
     ],
     "files.autoSave": "onFocusChange"
 }
