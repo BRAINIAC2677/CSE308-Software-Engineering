@@ -19,7 +19,7 @@
 <hr>
 
 ## Offline-2
-    **Behavioral Design Patterns**
+   **Behavioral Design Patterns**
   - [Problem Specification](/offline-2/problem-spec.pdf)
   - [Problem Solution-1](/offline-2/solution-1/) | `Observer Pattern + State Pattern`
   - [Problem Solution-2](/offline-2/solution-2/) | `Mediator Pattern`
@@ -31,7 +31,7 @@
 <hr>
 
 ## Offline-3
-    **Structural Design Patterns**
+   **Structural Design Patterns**
   - [Problem Specification](/offline-3/problem-spec.pdf)
   - [Problem Solution-1](/offline-3/solution-1/) | `Adapter Pattern`
   - [Problem Solution-2](/offline-3/solution-2/) | `Decorator Pattern + Simple Factory Pattern`
